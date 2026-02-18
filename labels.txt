@@ -1,0 +1,11 @@
+Image Name	Attr1	Attr2	Attr3	Attr4
+image_71.jpg	NA	1	0	0
+image_356.jpg	1	1	1	0
+image_326.jpg	1	1	0	0
+image_449.jpg	0	1	1	0
+image_712.jpg	1	1	0	NA
+image_156.jpg	NA	1	0	1
+image_521.jpg	1	1	0	0
+image_766.jpg	1	0	1	0
+image_317.jpg	NA	1	1	0
+image_964.jpg	1	1	1	0
